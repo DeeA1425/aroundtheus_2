@@ -20,6 +20,7 @@ The way you'll do this at work is by exporting images directly from Figma — we
   
 **Project Description**
 
+* a responsive webdesign fitting desktops (1280px), tablets (800px) and mobile devices (320px).
 
 **Website**
 https://deea1425.github.io/aroundtheus_2/
